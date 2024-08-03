@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "T186_NOMBRE": "Línea 1" },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-2.425899, 42.46729],
+          [-2.426662, 42.45228]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "T186_NOMBRE": "Línea 2" },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-2.429106, 42.46175],
+          [-2.456515, 42.46529]
+        ]
+      }
+    }
+  ]
+}
